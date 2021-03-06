@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Preetham. 
+#### Welcome to my GitHub profile!
+
 
 <!--
 **theonly1me/theonly1me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
