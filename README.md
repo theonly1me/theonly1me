@@ -1,5 +1,5 @@
-### Hi, I'm Preetham. 
-#### Welcome to my GitHub profile!
+### Hi, I'm Preetham 👋 
+#### Welcome to my GitHub profile! Feel free to look around and peek into my projects! 😁
 
 
 <!--
