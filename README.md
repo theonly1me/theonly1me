@@ -40,9 +40,9 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
   </h3>
 
 <p>  
-Here's some of my geek stats:
-<br/>
-  The Tech I love?
+
+
+  <strong>The Tech I love?</strong>
   <br/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
     <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
