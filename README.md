@@ -32,13 +32,18 @@
 </br>
 
 <p align="center">
-I'm Atchyut Preetham Pulavarthi and you're at one of my personal slices of the internet! Welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
+I'm Atchyut Preetham Pulavarthi. I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Therefore, I welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
+
+What I do for a living?
+<br/>
+ I'm currently working as a Full-Stack Web Developer at <img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
 <br/>  
+</p>
+
+<p>  
 Here's some of my geek stats:
 <br/>
   <ul>
-    <li>Work:</li>
-    <img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
     <li>Favorite Programming Language</li>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
     <li>Favorite Library/Framework</li>
@@ -47,7 +52,24 @@ Here's some of my geek stats:
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <li>Favorite Cloud Offering</li>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-</p>
+  </ul>
+  
+And, here's some other stuff for normal people who think of stuff other than just code:
+<br/>
+  <ul>
+    <li>Favourite Game</li>
+    <img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/>
+    <li>I have a minpin (doggo) as a pet!</li>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/>
+    <li>I love spending time with my family!</li>
+    <img src="https://img.icons8.com/dusk/64/000000/family.png"/>
+    <li>I also love Pizza and....!</li>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/>
+    <img src="https://img.icons8.com/dusk/64/000000/netflix.png"/>
+  </ul>
+<p>
+
+
 
 
 #### Feel free to look around and take a peek into my projects! ✨
