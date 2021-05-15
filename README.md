@@ -35,7 +35,7 @@
 I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Therefore, I welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
 
 I work @ 
-<img src="https://img.icons8.com/color/32/000000/sap.png" alt="SAP Logo"/>
+<img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
 </p>
 
 <p>  
