@@ -30,8 +30,7 @@
   </a>
 </h3>
 
-</br>
-
+<div align='center'>
 <p align="center">
 I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Therefore, I welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
 
@@ -63,5 +62,6 @@ And, here's some other things about me for normal people who think of stuff othe
     <img src="https://img.icons8.com/dusk/64/000000/netflix.png"/>
   </ul>
 <p>
+</div>
 
 #### Feel free to look around and take a peek into my projects! ✨
