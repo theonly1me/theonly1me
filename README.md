@@ -30,10 +30,14 @@
 </h3>
 
 </br>
-<h2 align="center">  Hello World 👋🌎! </h2>
 
 <p align="center">
-I'm Prateek Bansal 😀 and currently pursuing my engineering in the field of Computer Science 👨‍💻 .The best part about me is that I am eager to learn.Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.I have experiences in programming languages like C++, Java and Javascript . I'm a full stack NodeJs developer,stepping in React development....In some parallel world I'm a gym bunny💪..❤ coffee ☕ .  
+I'm Atchyut Preetham Pulavarthi and you're at one of my personal slices of the internet! Here's some stuff about me:
+<br/>
+  <ul>
+    <li><img src="https://img.icons8.com/windows/32/000000/github-squared.png"/> is my 3rd most visited website on the internet, right after <img src="https://img.icons8.com/plasticine/32/000000/google-logo.png"/> and <img src="https://img.icons8.com/color/32/000000/stackoverflow.png"/></li>
+    <li>I'm currently a developer at <img src="https://img.icons8.com/color/48/000000/sap.png" alt="SAP Logo"/></li>
+  </ul>
 </p>
 
 #### Welcome to my GitHub profile! Feel free to look around and take a peek into my projects! ✨
