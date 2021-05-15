@@ -30,7 +30,6 @@
   </a>
 </h3>
 
-<div align='left'>
 <p align="center">
 I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Therefore, I welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
 </p>
@@ -38,10 +37,8 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
   <h3>I work @
 <img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
   </h3>
-
+<hr/>
 <p>  
-
-
   <strong>The tech I ❤️?</strong>
   <br/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
@@ -52,20 +49,21 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
     &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   
-And, here's some other things about me for normal people who think of stuff other than just code:
+<strong>And, here's some other things about me for normal people who think of stuff other than just code:</strong>
 <br/>
-  <ul>
-    <li>Favourite Videogame 🎮, you guessed it...Overwatch of course!</li>
+
+Favourite Videogame 🎮, you guessed it...Overwatch of course!
+<br/>
     <img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/>
-    <li>I love spending time with my family, which includes my doggo, Zuma!</li>
+I love spending time with my family, which includes my doggo, Zuma!
+<br/>
     <img src="https://img.icons8.com/dusk/64/000000/family.png"/>
     <img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/>
-    <li>I also love Coffee, Pizza and....!</li>
+I also love Coffee, Pizza and....!
+<br/>
     <img src="https://img.icons8.com/officel/64/000000/coffee--v2.png"/>
     <img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/>
     <img src="https://img.icons8.com/dusk/64/000000/netflix.png"/>
-  </ul>
 <p>
-</div>
 
 #### Feel free to look around and take a peek into my projects! ✨
