@@ -6,7 +6,7 @@
   <h1> Hello there, I'm Preetham 👋 </h1>
 </div>
 
-<h4 align="center">
+<h3 align="center">
   ✨  ✨  ✨
   <br/>
   Portfolio 👇🏼
@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/pulavarthi.preetham/" target="_blank">
   <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
   </a>
-</h2>
+</h3>
 
 </br>
 <h2 align="center">  Hello World 👋🌎! </h2>
