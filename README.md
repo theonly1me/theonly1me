@@ -34,15 +34,19 @@
 <p align="center">
 I'm Atchyut Preetham Pulavarthi and you're at one of my personal slices of the internet! Welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
 <br/>  
-Here's some stuff about me:
+Here's some of my geek stats:
 <br/>
   <ul>
     <li>Work:</li>
-    <li><img src="https://img.icons8.com/color/48/000000/sap.png" alt="SAP Logo"/></li>
+    <img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
     <li>Favorite Programming Language</li>
-    <li></li>
-    <li>Favorite Library</li>
-    <li><img src="https://img.icons8.com/cute-clipart/32/000000/react-native.png"/></li>
+    <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
+    <li>Favorite Library/Framework</li>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
+    <li>Favorite Backend Technology</li>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <li>Favorite Cloud Offering</li>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
 
