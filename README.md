@@ -6,10 +6,13 @@
   <h1> Hello there, I'm Preetham 👋 </h1>
 </div>
 
-<h2 align="center">
+<h4 align="center">
   ✨  ✨  ✨
+  <br/>
   Portfolio
+  <br/>
   ✨  ✨  ✨
+  <br/>
   <a href="https://atchyut.dev" target="_blank"><img src="https://img.icons8.com/bubbles/64/000000/domain.png"/></a>
   <br/>
 <br/>
