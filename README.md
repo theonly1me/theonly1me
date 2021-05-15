@@ -42,11 +42,14 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
 <p>  
 
 
-  <strong>The Tech I love?</strong>
+  <strong>The tech I ❤️?</strong>
   <br/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
+    &nbsp;&nbsp;
     <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
+    &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   
 And, here's some other things about me for normal people who think of stuff other than just code:
