@@ -1,4 +1,6 @@
+<div align='center'>
 ### Hi, I'm Preetham 👋 
+</div>
 #### Welcome to my GitHub profile! Feel free to look around and take a peek into my projects! ✨
 #### You can visit my portfolio at https://atchyut.dev
 
