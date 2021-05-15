@@ -3,8 +3,10 @@
 </p>
 
 <h1 align="center">
+SOCIALS! 👇🏼
+<br/>
   <a href="https://www.linkedin.com/in/atchyutpulavarthi/">
-    <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+    <img src="https://img.icons8.com/doodle/64/000000/linkedin--v2.png"/>
   </a>
 
   <a href="mailto:pulavarthi.preetham@gmail.com">
