@@ -34,17 +34,14 @@
 <p align="center">
 I'm Atchyut Preetham Pulavarthi and you're at one of my personal slices of the internet! Here's some stuff about me:
 <br/>
-  <ul>
-    <li><img src="https://img.icons8.com/windows/32/000000/github-squared.png"/> is my 3rd most visited website on the internet, right after <img src="https://img.icons8.com/plasticine/32/000000/google-logo.png"/> and <img src="https://img.icons8.com/color/32/000000/stackoverflow.png"/></li>
-    <li>I'm currently a developer at <table><tr><td vlign="center"><img src="https://img.icons8.com/color/48/000000/sap.png" alt="SAP Logo"/></td></tr></li>
-    <li><img src="https://img.icons8.com/cute-clipart/32/000000/react-native.png"/> is my favourite JS framework/library</li>
-  </ul>
 </p>
+- <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/> is my 3rd most visited website on the internet, right after <img src="https://img.icons8.com/plasticine/32/000000/google-logo.png"/> and <img src="https://img.icons8.com/color/32/000000/stackoverflow.png"/>
+- I'm currently a developer at <table><tr><td vlign="center"><img src="https://img.icons8.com/color/48/000000/sap.png" alt="SAP Logo"/>
+- <img src="https://img.icons8.com/cute-clipart/32/000000/react-native.png"/> is my favourite JS framework/library!
 
-#### Welcome to my GitHub profile! Feel free to look around and take a peek into my projects! ✨
-#### You can visit my portfolio at https://atchyut.dev
 
-### Learning ✨🤓
+#### Feel free to look around and take a peek into my projects! ✨
+
 - 🌱 I’m currently building some projects in NodeJs and React.
 - 👯 I’m looking to collaborate on amazing web projects. 
 - 📫 Connect Me on : [Linkedin](https://www.linkedin.com/in/prateek-bansal-734b191a4?).
