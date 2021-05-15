@@ -2,8 +2,10 @@
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="20%" height="20%" style="position:absolute" alt="hello!" />
 </p>
 
-<h1 align="center"><a href="https://www.linkedin.com/in/prateek-bansal-734b191a4?"></a><img src="https://img.shields.io/badge/-PrateekBansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prateek-bansal-734b191a4?"/> &nbsp;&nbsp;mrPKdeveloper😎 &nbsp;&nbsp;<a href="mailto:pb10859@gmail.com"></a><img src="https://img.shields.io/badge/-pb10859@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pb10859@gmail.com"/></h1>
+<h1 align="center"><a href="https://www.linkedin.com/in/prateek-bansal-734b191a4?"></a><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+<img src="https://img.icons8.com/plasticine/100/000000/gmail.png&link=mailto:pulavarthi.preetham@gmail.com"/></h1>
 
+<img src=""/>
 </br>
 <h2 align="center">  Hello World 👋🌎! </h2>
 
