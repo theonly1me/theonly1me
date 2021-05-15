@@ -57,12 +57,11 @@ Here's some of my geek stats:
 And, here's some other stuff for normal people who think of stuff other than just code:
 <br/>
   <ul>
-    <li>Favourite Game</li>
+    <li>Favourite Videogame 🎮, you guessed it...Overwatch of course!</li>
     <img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/>
-    <li>I have a minpin (doggo) as a pet!</li>
-    <img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/>
-    <li>I love spending time with my family!</li>
+    <li>I love spending time with my family, which includes my doggo, Zuma!</li>
     <img src="https://img.icons8.com/dusk/64/000000/family.png"/>
+    <img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/>
     <li>I also love Coffee, Pizza and....!</li>
     <img src="https://img.icons8.com/officel/64/000000/coffee--v2.png"/>
     <img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/>
