@@ -34,12 +34,12 @@
 I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Therefore, I welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
 </p>
   
-  <h3>I work @
-<img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
-  </h3>
+  <h3>Where I work?</h3>
 <hr/>
+<img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
 <p>  
   <strong>The tech I ❤️?</strong>
+  <hr/>
   <br/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
     &nbsp;&nbsp;
@@ -50,7 +50,7 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   
 <strong>And, here's some other things about me for normal people who think of stuff other than just code:</strong>
-<br/>
+<hr/>
 
 Favourite Videogame 🎮, you guessed it...Overwatch of course!
 <br/>
