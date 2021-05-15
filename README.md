@@ -2,8 +2,14 @@
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="20%" height="20%" style="position:absolute" alt="hello!" />
 </p>
 
-<h1 align="center"><a href="https://www.linkedin.com/in/prateek-bansal-734b191a4?"></a><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
-<img src="https://img.icons8.com/plasticine/100/000000/gmail.png&link=mailto:pulavarthi.preetham@gmail.com"/></h1>
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/atchyutpulavarthi/"></a>
+  <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+  <a href="mailto:pulavarthi.preetham@gmail.com"></a>
+  <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
+  <a href="https://www.instagram.com/pulavarthi.preetham/"></a>
+  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
+</h1>
 
 <img src=""/>
 </br>
