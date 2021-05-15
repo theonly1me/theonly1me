@@ -1,11 +1,9 @@
 <p align="center">
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="10%" height="10%" style="position:absolute" alt="hello!" />
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="15%" height="15%" style="position:absolute" alt="hello!" />
 </p>
-
 <div align='center'>
-  <h1> Hello there, I'm Preetham 👋 </h1>
+  <h2> Hello there, I'm Preetham 👋 </h2>
 </div>
-
 <h3 align="center">
   ✨  ✨  ✨
   <br/>
