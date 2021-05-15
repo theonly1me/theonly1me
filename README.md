@@ -20,7 +20,7 @@
   <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
   </a>
   <a href="mailto:pulavarthi.preetham@gmail.com" target="_blank"> 
-  <img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/>
+  <img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/>
   </a>
   <a href="https://www.instagram.com/pulavarthi.preetham/" target="_blank">
   <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
