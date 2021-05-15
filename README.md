@@ -7,9 +7,11 @@
 </div>
 
 <h2 align="center">
+  ✨  ✨  ✨
+  Portfolio
+  ✨  ✨  ✨
   <a href="https://atchyut.dev" target="_blank"><img src="https://img.icons8.com/bubbles/64/000000/domain.png"/></a>
   <br/>
-SOCIALS! 👇🏼
 <br/>
   <a href="https://www.linkedin.com/in/atchyutpulavarthi/" target="_blank">
     <img src="https://img.icons8.com/doodle/64/000000/linkedin--v2.png"/>
