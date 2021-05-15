@@ -43,12 +43,13 @@ I work @
 Here's some of my geek stats:
 <br/>
   The Tech I love?
+  <br/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
     <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   
-And, here's some other stuff for normal people who think of stuff other than just code:
+And, here's some other things about me for normal people who think of stuff other than just code:
 <br/>
   <ul>
     <li>Favourite Videogame 🎮, you guessed it...Overwatch of course!</li>
