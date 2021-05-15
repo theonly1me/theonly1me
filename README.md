@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="20%" height="20%" style="position:absolute" alt="hello!" />
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="10%" height="10%" style="position:absolute" alt="hello!" />
 </p>
 
 <div align='center'>
@@ -13,13 +13,12 @@
   <br/>
   ✨  ✨  ✨
   <br/>
-  <a href="https://atchyut.dev" target="_blank"><img src="https://img.icons8.com/bubbles/64/000000/domain.png"/></a>
+  <a href="https://atchyut.dev" target="_blank"><img src="https://img.icons8.com/bubbles/200/000000/domain.png"/></a>
   <br/>
-  🧛🏼  🧛🏼  🧛🏼
   <br/>
-  Socials 👇🏼
+  🧛🏼  Socials 👇🏼
   <br/>
-  🧛🏼  🧛🏼  🧛🏼
+
   <br/>
   <a href="https://www.linkedin.com/in/atchyutpulavarthi/" target="_blank">
     <img src="https://img.icons8.com/doodle/64/000000/linkedin--v2.png"/>
