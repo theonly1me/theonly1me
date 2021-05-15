@@ -34,9 +34,9 @@
 <p align="center">
 I'm Atchyut Preetham Pulavarthi. I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Therefore, I welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
 
-What I do for a living?
+Where I work?
 <br/>
- I'm currently working as a Full-Stack Web Developer at <img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
+<img src="https://img.icons8.com/color/100/000000/sap.png" alt="SAP Logo"/>
 <br/>  
 </p>
 
@@ -63,38 +63,11 @@ And, here's some other stuff for normal people who think of stuff other than jus
     <img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/>
     <li>I love spending time with my family!</li>
     <img src="https://img.icons8.com/dusk/64/000000/family.png"/>
-    <li>I also love Pizza and....!</li>
+    <li>I also love Coffee, Pizza and....!</li>
+    <img src="https://img.icons8.com/officel/64/000000/coffee--v2.png"/>
     <img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/>
     <img src="https://img.icons8.com/dusk/64/000000/netflix.png"/>
   </ul>
 <p>
 
-
-
-
 #### Feel free to look around and take a peek into my projects! ✨
-
-- 🌱 I’m currently building some projects in NodeJs and React.
-- 👯 I’m looking to collaborate on amazing web projects. 
-- 📫 Connect Me on : [Linkedin](https://www.linkedin.com/in/prateek-bansal-734b191a4?).
-- ⚡ Fun fact: I add sugar to my coffee ☕ 😂😂
-
-
-
-
-
-
-<!--
-**theonly1me/theonly1me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
