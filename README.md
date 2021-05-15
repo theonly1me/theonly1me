@@ -17,7 +17,7 @@
   🧛🏼  Socials 👇🏼
   <br/>
   <a href="https://www.linkedin.com/in/atchyutpulavarthi/" target="_blank">
-    <img src="https://img.icons8.com/doodle/64/000000/linkedin--v2.png"/>
+  <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
   </a>
   <a href="mailto:pulavarthi.preetham@gmail.com" target="_blank"> 
   <img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/>
