@@ -2,24 +2,26 @@
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="20%" height="20%" style="position:absolute" alt="hello!" />
 </p>
 
-<h1 align="center">
+<div align='center'>
+  <h1> Hello there, I'm Preetham 👋 </h1>
+</div>
+
+<h2 align="center">
+  <a href="https://atchyut.dev" target="_blank"><img src="https://img.icons8.com/bubbles/64/000000/domain.png"/></a>
+  <br/>
 SOCIALS! 👇🏼
 <br/>
-  <a href="https://www.linkedin.com/in/atchyutpulavarthi/">
+  <a href="https://www.linkedin.com/in/atchyutpulavarthi/" target="_blank">
     <img src="https://img.icons8.com/doodle/64/000000/linkedin--v2.png"/>
   </a>
-
-  <a href="mailto:pulavarthi.preetham@gmail.com">
+  <a href="mailto:pulavarthi.preetham@gmail.com" target="_blank"> 
   <img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/>
   </a>
-
-  <a href="https://www.instagram.com/pulavarthi.preetham/">
+  <a href="https://www.instagram.com/pulavarthi.preetham/" target="_blank">
   <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
   </a>
-  
-</h1>
+</h2>
 
-<img src=""/>
 </br>
 <h2 align="center">  Hello World 👋🌎! </h2>
 
@@ -27,6 +29,8 @@ SOCIALS! 👇🏼
 I'm Prateek Bansal 😀 and currently pursuing my engineering in the field of Computer Science 👨‍💻 .The best part about me is that I am eager to learn.Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.I have experiences in programming languages like C++, Java and Javascript . I'm a full stack NodeJs developer,stepping in React development....In some parallel world I'm a gym bunny💪..❤ coffee ☕ .  
 </p>
 
+#### Welcome to my GitHub profile! Feel free to look around and take a peek into my projects! ✨
+#### You can visit my portfolio at https://atchyut.dev
 
 ### Learning ✨🤓
 - 🌱 I’m currently building some projects in NodeJs and React.
@@ -36,11 +40,7 @@ I'm Prateek Bansal 😀 and currently pursuing my engineering in the field of Co
 
 
 
-<div align='center'>
-### Hi, I'm Preetham 👋 
-</div>
-#### Welcome to my GitHub profile! Feel free to look around and take a peek into my projects! ✨
-#### You can visit my portfolio at https://atchyut.dev
+
 
 
 <!--
