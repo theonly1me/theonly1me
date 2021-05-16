@@ -40,14 +40,15 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
 <img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
 <hr/>
 <p>  
-  <h3>The tech I enjoy working with?</h3>
+  <strong>The tech I enjoy working with?</strong>
+  <br/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
     <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/64/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
 <hr/>  
 
-<he>And, here's some other things about me for normal people who think of stuff other than just code...</h3>
+<strong>And, here's some other things about me for normal people who think of stuff other than just code...</strong>
 Favourite Videogame 🎮, you guessed it...Overwatch of course!
 <br/>
 <img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/>
