@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theonly1me&label=Views&color=blue&style=plastic" alt="theonly1me" /> </p>
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="15%" height="15%" style="position:absolute" alt="hello!" /></a>
 </p>
