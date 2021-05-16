@@ -43,11 +43,13 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
   <strong>The tech I enjoy working with?</strong>
   <br/>
     <a href="#"><img src="https://img.icons8.com/dusk/64/000000/javascript.png"/></a>
-    <a href="#"><img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/plasticine/64/000000/react.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/64/000000/redux.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/64/000000/nodejs.png"/></a>
+    <a href="#">  <img src="https://img.icons8.com/color/64/000000/angularjs.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/></a>
-   <a href="#"><img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/></a>
-   <a href="#"><img src="https://img.icons8.com/color/64/000000/spring-logo.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/64/000000/spring-logo.png"/></a>
 <hr/>  
 
 <strong>And, here's some other things about me for normal people who think of stuff other than just code...</strong>
