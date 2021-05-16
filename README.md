@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="15%" height="15%" style="position:absolute" alt="hello!" /></a>
+<a href="#" onclick="event.preventDefault();"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="15%" height="15%" style="position:absolute" alt="hello!" /></a>
 </p>
 <div align='center'>
   <h2> Hey, I'm Atchyut 👋 </h2>
