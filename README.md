@@ -32,7 +32,7 @@
 </h3>
 
 <p align="center">
-I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Welcome to my <a href="#"><img src="https://img.icons8.com/windows/32/000000/github-squared.png"/></a>.
+I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Welcome to my <a href="#"><img src="https://img.icons8.com/cute-clipart/16/000000/github.png"/></a>.
 </p>
 
 <hr/>
