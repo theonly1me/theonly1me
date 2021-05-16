@@ -39,7 +39,7 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
 <img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
 <hr/>
 <p>  
-  <strong>The tech I ❤️?</strong>
+  <strong>The tech I enjoy working with?</strong>
   <br/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
     &nbsp;    &nbsp;
