@@ -16,6 +16,7 @@
   <br/>
   🧛🏼  Socials 👇🏼
   <br/>
+  <br/>
   <a href="https://www.linkedin.com/in/atchyutpulavarthi/" target="_blank">
   <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
   </a>
@@ -41,11 +42,11 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
 <p>  
   <h3>The tech I enjoy working with?</h3>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
-    &nbsp;    &nbsp;
+
     <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
-      &nbsp;    &nbsp;
+
     <img src="https://img.icons8.com/color/64/000000/nodejs.png"/>
-      &nbsp;    &nbsp;
+
     <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
 <hr/>  
 
