@@ -42,11 +42,11 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
   <hr/>
   <br/>
     <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
-    &nbsp;&nbsp;
+    &nbsp;
     <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
-    &nbsp;&nbsp;
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    &nbsp;&nbsp;
+    &nbsp;
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   
 <strong>And, here's some other things about me for normal people who think of stuff other than just code:</strong>
@@ -54,16 +54,19 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
 
 Favourite Videogame 🎮, you guessed it...Overwatch of course!
 <br/>
-    <img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/>
+<br/>
 I love spending time with my family, which includes my doggo, Zuma!
 <br/>
-    <img src="https://img.icons8.com/dusk/64/000000/family.png"/>
-    <img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/family.png"/>
+<img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/>
+<br/>
 I also love Coffee, Pizza and....!
 <br/>
-    <img src="https://img.icons8.com/officel/64/000000/coffee--v2.png"/>
-    <img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/>
-    <img src="https://img.icons8.com/dusk/64/000000/netflix.png"/>
+<img src="https://img.icons8.com/officel/64/000000/coffee--v2.png"/>
+<img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/netflix.png"/>
+
 <p>
 
 #### Feel free to look around and take a peek into my projects! ✨
