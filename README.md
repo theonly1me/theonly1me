@@ -53,7 +53,8 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
     <a href="#"><img src="https://img.icons8.com/color/64/000000/spring-logo.png"/></a>
 <hr/>  
 
-<strong>And, here's some other things about me for normal people who think of stuff other than just code...</strong>
+<strong>And, here's some random stuff about me:</strong>
+<br/>
 I enjoy playing videogames, watching anime and binging shows in my freetime...!
 <br/>
 <a href="#"><img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/></a>
