@@ -33,21 +33,20 @@
 <p align="center">
 I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Therefore, I welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
 </p>
-  
-  <h3>Where I work?</h3>
+
 <hr/>
+  <h3>Where I work?</h3>
 <img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
+<hr/>
 <p>  
   <strong>The tech I ❤️?</strong>
-  <hr/>
     <img src="https://img.icons8.com/dusk/32/000000/javascript.png"/>
     <img src="https://img.icons8.com/cute-clipart/32/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/32/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
-  
-<strong>And, here's some other things about me for normal people who think of stuff other than just code:</strong>
-<hr/>
+<hr/>  
 
+<strong>And, here's some other things about me for normal people who think of stuff other than just code:</strong>
 Favourite Videogame 🎮, you guessed it...Overwatch of course!
 <br/>
 <img src="https://img.icons8.com/dusk/32/000000/overwatch.png"/>
