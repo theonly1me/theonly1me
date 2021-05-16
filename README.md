@@ -31,7 +31,7 @@
 </h3>
 
 <p align="center">
-I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Therefore, I welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
+I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
 </p>
 
 <hr/>
