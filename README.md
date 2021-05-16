@@ -8,7 +8,7 @@
 <h3 align="center">
   ✨  ✨  ✨
   <br/>
-  Portfolio 👇🏼
+  Click for Portfolio 👇🏼
   <br/>
   ✨  ✨  ✨
   <br/>
@@ -32,37 +32,37 @@
 </h3>
 
 <p align="center">
-I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Welcome to my <img src="https://img.icons8.com/windows/32/000000/github-squared.png"/>.
+I'm a developer, designer, gamer & a techie and you're currently at one of my personal slices of the internet! Welcome to my <a href="#"><img src="https://img.icons8.com/windows/32/000000/github-squared.png"/></a>.
 </p>
 
 <hr/>
   <h3>Where I work?</h3>
-<img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/>
+<a href="#"><img src="https://img.icons8.com/color/64/000000/sap.png" alt="SAP Logo"/></a>
 <hr/>
 <p>  
   <strong>The tech I enjoy working with?</strong>
   <br/>
-    <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
-    <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/64/000000/nodejs.png"/>
-    <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
+    <a href="#"><img src="https://img.icons8.com/dusk/64/000000/javascript.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/64/000000/nodejs.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/></a>
 <hr/>  
 
 <strong>And, here's some other things about me for normal people who think of stuff other than just code...</strong>
 Favourite Videogame 🎮, you guessed it...Overwatch of course!
 <br/>
-<img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/>
+<a href="#"><img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/></a>
 <br/>
 I love spending time with my family, which includes my doggo, Zuma!
 <br/>
-<img src="https://img.icons8.com/dusk/64/000000/family.png"/>
-<img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/>
+<a href="#"><img src="https://img.icons8.com/dusk/64/000000/family.png"/></a>
+<a href="#"><img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/></a>
 <br/>
 I also love Coffee, Pizza and....!
 <br/>
-<img src="https://img.icons8.com/officel/64/000000/coffee--v2.png"/>
-<img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/netflix.png"/>
+<a href="#"><img src="https://img.icons8.com/officel/64/000000/coffee--v2.png"/></a>
+<a href="#"><img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/></a>
+<a href="#"><img src="https://img.icons8.com/dusk/64/000000/netflix.png"/></a>
 <p>
 
 #### Feel free to look around and take a peek into my projects! ✨
