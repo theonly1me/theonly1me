@@ -54,20 +54,27 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
 <hr/>  
 
 <strong>And, here's some other things about me for normal people who think of stuff other than just code...</strong>
-Favourite Videogame 🎮, you guessed it...Overwatch of course!
+I enjoy playing videogames, watching anime and binging shows in my freetime...!
 <br/>
 <a href="#"><img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/></a>
+<a href="#"><img src="https://img.icons8.com/dusk/64/000000/pokemon-go.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/64/000000/play-station.png"/></a>
+<a href="#"><img src="https://img.icons8.com/plasticine/64/000000/valorant.png"/></a>
+<a href="#"><img src="https://img.icons8.com/dusk/64/000000/son-goku.png"/></a>
+<a href="#"><img src="https://img.icons8.com/dusk/64/000000/naruto.png"/></a>
+<a href="#"><img src="https://img.icons8.com/dusk/64/000000/netflix.png"/></a>
 <br/>
-I love spending time with my family, which includes my doggo, Zuma!
+I love spending time with my family, which includes my pupper...
 <br/>
 <a href="#"><img src="https://img.icons8.com/dusk/64/000000/family.png"/></a>
 <a href="#"><img src="https://img.icons8.com/cute-clipart/64/000000/dog.png"/></a>
 <br/>
-I also love Coffee, Pizza and....!
+I drink coffee, eat a lot and workout whenever I can....!
 <br/>
 <a href="#"><img src="https://img.icons8.com/officel/64/000000/coffee--v2.png"/></a>
 <a href="#"><img src="https://img.icons8.com/cute-clipart/64/000000/pizza.png"/></a>
-<a href="#"><img src="https://img.icons8.com/dusk/64/000000/netflix.png"/></a>
+<a href="#"><img src="https://img.icons8.com/officel/64/000000/bench-press.png"/></a>
+
 <p>
 
 #### Feel free to look around and take a peek into my projects! ✨
