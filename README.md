@@ -51,6 +51,7 @@ I'm a developer, designer, gamer & a techie and you're currently at one of my pe
 <hr/>  
 
 <strong>And, here's some other things about me for normal people who think of stuff other than just code:</strong>
+<br/>
 Favourite Videogame 🎮, you guessed it...Overwatch of course!
 <br/>
 <img src="https://img.icons8.com/dusk/64/000000/overwatch.png"/>
