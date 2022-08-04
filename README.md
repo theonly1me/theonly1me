@@ -1,16 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theonly1me&label=Views&color=blue&style=plastic" alt="theonly1me" /> </p>
 
 <div align='center'>
-  <h2> Hey there, I'm Atchyut 👋!, welcome to my workshop </h2>
+  <h2> Hey there, I'm Atchyut 👋! </h2>
 </div>
 
 <h3 align="center">
   <br/>
-  Click for Portfolio 👇🏼
+  Click below for Portfolio 👇🏼
   <br/>
   <a href="https://atchyut.dev" target="_blank"><img src="https://img.icons8.com/bubbles/200/000000/domain.png"/></a>
   <br/>
-  🧛🏼  Socials 👇🏼
+  🧛🏼 Socials 👇🏼
   <br/>
   <br/>
   <a href="https://www.linkedin.com/in/atchyutpulavarthi/" target="_blank">
