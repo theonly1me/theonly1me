@@ -5,11 +5,6 @@
 </div>
 
 <h3 align="center">
-  <br/>
-  Click below to view my portfolio 👇🏼
-  <br/>
-  <a href="https://atchyut.dev" target="_blank"><img src="https://img.icons8.com/bubbles/200/000000/domain.png"/></a>
-  <br/>
   🧛🏼 Socials 👇🏼
   <br/>
   <br/>
