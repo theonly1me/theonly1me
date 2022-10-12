@@ -7,6 +7,8 @@
 
 
 📫 @ **pulavarthi.preetham@gmail.com**
+🧑🏼‍🚀 @ **https://atchyut.dev**
+◀️ @ **https://v1.atchyut.dev**
 
 
 <h3 align="left">Socials</h3>
