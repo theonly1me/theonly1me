@@ -1,6 +1,5 @@
-<p align="center">
-<img src="./assets/github_banner.png" />
-</p>
+[![@theonly1me's Holopin board](https://holopin.me/theonly1me)](https://holopin.io/@theonly1me)
+
 <h2 align="center">Hey there! 👋 I'm Atchyut</h2>
 <h4 align="center">Full-stack Software Engineer</h4>
 
