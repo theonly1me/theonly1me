@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theonly1me&label=Profile%20views&color=0e75b6&style=flat" alt="theonly1me" /> </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5180fb37-2666-4e89-822f-88dcb6bc59c7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://www.credly.com/badges/5180fb37-2666-4e89-822f-88dcb6bc59c7/public_url" alt="javascript landia badge" />
 
 <h3 align="left">Socials</h3>
 <p align="left">
