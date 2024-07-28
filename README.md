@@ -1,10 +1,22 @@
-### Helloo! I'm Atchyut 👋
+<div align="center">
+<img src="./assets//github_banner.png" width="100%"/>
+<pre>
+Hey there! 👋🏼
+This is one of my personal slices of the WWW.
+I like working on diffrent things that interest me, 
+feel free to contribute if they interest you too :) 
 
-Welcome to one of my personal slices of the `WWW`, feel free to lurk around. I work on a lot of random things that interest me.
+<br/>
+You can also find me at:
+</pre>
 
-<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=theonly1me&theme=darcula&hide_border=true" />
+[![](https://img.shields.io/badge/atchyut.dev-6364ff)](https://atchyut.dev)
+[![](https://img.shields.io/badge/blog.atchyut.dev-00cec9)](https://blog.atchyut.dev)
+[![](https://img.shields.io/badge/LinkedIn-0984e3)](https://linkedin.com/in/atchyutpulavarthi)
 
-To know more about me, you can:
-- 🌐 [Visit my website](https://atchyut.dev) 
-- 📝 [Read my blog](https://blog.atchyut.dev)
-- ✉ [Send me an email](mailto:hello@atchyut.dev,pulavarthi.preetham@gmail.com) 
+<img alt="Atchyut's GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=theonly1me&theme=darcula&hide_border=true" />
+</div>
+
+
+
+
